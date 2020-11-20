@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MEPS/scenes/MEPS.unity
+    guid: 22a414491474ca34ba3197380de09866
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 5999c1b272f4f804e961cc0ec9e4206a,
+      type: 2}
